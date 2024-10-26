@@ -46,7 +46,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+
+
+![WhatsApp Image 2024-10-26 at 16 54 03_ec5b9c2a](https://github.com/user-attachments/assets/770ff843-594c-477f-907a-ddf0c604d910)
 
 
  
@@ -63,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![image] ![WhatsApp Image 2024-10-26 at 16 55 33_9f8d564f](https://github.com/user-attachments/assets/5dfdf4f2-5c49-4165-9963-d0e3b31de4fc)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ ![image](![WhatsApp Image 2024-10-26 at 16 53 04_ffdb4ef5](https://github.com/user-attachments/assets/838d2aec-56b2-483b-a32b-7cf523f12a7d)
+)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![image](![WhatsApp Image 2024-10-26 at 16 53 40_168d5c0f](https://github.com/user-attachments/assets/f0a13e3e-0f7d-4b5d-b8da-3ce139a60507)
+)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![image](![WhatsApp Image 2024-10-26 at 16 53 24_74433bf2](https://github.com/user-attachments/assets/6fc316b5-ffdb-4c2a-8b57-477065f5dea5)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ 
 
 
 
