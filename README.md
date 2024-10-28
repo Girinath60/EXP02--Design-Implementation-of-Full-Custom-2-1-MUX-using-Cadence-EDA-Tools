@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![WhatsApp Image 2024-10-26 at 16 54 03_ec5b9c2a](https://github.com/user-attachments/assets/103c07f3-bf79-48cb-ab2e-70f8ae261baa)
 
 
  
@@ -63,7 +63,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+![WhatsApp Image 2024-10-26 at 16 53 40_168d5c0f](https://github.com/user-attachments/assets/819f56fc-8b0d-4d30-b91d-c3ae0d875bdf)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +74,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+![WhatsApp Image 2024-10-26 at 16 55 33_9f8d564f](https://github.com/user-attachments/assets/c031d712-f32a-4c32-ab8e-87f74e2225cf)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +86,11 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+![WhatsApp Image 2024-10-26 at 16 53 04_ffdb4ef5](https://github.com/user-attachments/assets/a6e44a9e-9f2a-4b3e-82ac-5c813cf44f09)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+![WhatsApp Image 2024-10-26 at 16 53 24_74433bf2](https://github.com/user-attachments/assets/0f7f38fb-70a6-4ac2-9c5a-522e902a15f7)
 
 
 
